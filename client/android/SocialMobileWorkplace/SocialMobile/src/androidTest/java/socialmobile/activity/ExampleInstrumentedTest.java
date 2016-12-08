@@ -1,4 +1,4 @@
-package socialmobile.socialmobileworkplace;
+package socialmobile.activity;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
